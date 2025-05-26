@@ -4,4 +4,4 @@
 ## git config
 add new contents
 add new contents
-안녕하세요
+print("Hello My Name is Jeong JongHo"
