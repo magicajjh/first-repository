@@ -4,7 +4,7 @@
 ## git config
 add new contents
 add new contents
-print("Hello My Name is Jeong JongHo"
+print("Hello My Name is Jeong JongHo")
 # 자기 소개
 - 86년생 범띠 정종호 입니다. 아자아자
 
